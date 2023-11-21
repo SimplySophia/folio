@@ -235,10 +235,15 @@ footer{
         flex-direction: column-reverse;
         margin: auto 5rem;
     }
+    .content{
+        flex-direction: column;
+        text-align: center;
+    }
     .contact-form{
         flex-direction: column;
         text-align: center;
     }
+
     footer{
         text-align: center;
     }
